@@ -1,10 +1,13 @@
-### Hi there 👋, My name is Bekhruz
-#### I am junior frontend developer and future software developer
+# Hi there 👋, My name is Bekhruz
+**Web-developer / Figma-designer**
 
-Skills:  HTML / CSS / C / PYTHON / JAVA
+I'm front-end developer and future full stack web and app developer, who is also going to study in cybersecurity. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Also I will share some of the projects made during the study. 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently learning JavaScript
 - 🌱 I’m currently learning JAVA
+
+### 🗂️ Languages and Tools
+<img align = "left alt = "Java" width = "30px" style = padding-right:10px;" src = "https://user-images.githubusercontent.com/75391000/226285535-87d2baa3-9959-4c7f-a7e6-7ed2b3f5d425.png"/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bekhruzakhmadjanov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__axmadjanov_b_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14751482)  
@@ -16,4 +19,6 @@ Skills:  HTML / CSS / C / PYTHON / JAVA
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bekhruzakhmadjanov)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bekhruzakhmadjanov)  
+
+
 
