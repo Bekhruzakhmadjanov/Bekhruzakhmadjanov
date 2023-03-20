@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Bekhruz
 #### I am junior frontend developer and future software developer
 
-Skills:  HTML / CSS / C / PYTHON
+Skills:  HTML / CSS / C / PYTHON / JAVA
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning JAVA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bekhruzakhmadjanov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__axmadjanov_b_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14751482)  
