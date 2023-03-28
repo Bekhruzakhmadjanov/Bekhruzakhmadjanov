@@ -1,6 +1,6 @@
-<!-- # Hi there 👋, My name is Bekhruz -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=24&duration=4000&pause=200&color=808080&width=435&lines=Hi%2C+Hi+there+👋+I+am+Bekhruz;Student+of+Murdoch+University+Dubai;Web+Developer;Future+Software+Engineer;)](https://git.io/typing-svg)
-<!-- **Web-developer / Figma-designer** -->
+# Hi 👋, I am Bekhruz
+**Web-developer / Figma-designer**
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=24&duration=4000&pause=200&color=808080&width=435&lines=Hi+👋+I+am+Bekhruz;Student+of+Murdoch+University+Dubai;Web+Developer;Future+Software+Engineer;)](https://git.io/typing-svg) -->
 
 I'm front-end developer and future full stack web and app developer, who is also going to study in cybersecurity. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Also I will share some of the projects made during the study. 
 
@@ -17,8 +17,6 @@ I'm front-end developer and future full stack web and app developer, who is also
 <br/>
 
 #
-
-
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bekhruzakhmadjanov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__axmadjanov_b_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14751482)   -->
 
@@ -39,4 +37,9 @@ I'm front-end developer and future full stack web and app developer, who is also
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bekhruzakhmadjanov)  -->
 
 
-
+### Follow Me
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Bekhruzakhmadjanov)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=6041b2)](https://www.instagram.com/_a_beh_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/bekhruz-akhmadjonov-152096233/)
+[![StackOverFlow](https://img.shields.io/badge/stackoverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=f48024)](https://stackoverflow.com/users/14751482/behruz0801)
+[![Sololearn](https://img.shields.io/badge/Sololearn-black?style=for-the-badge&logo=sololearn&logoColor=0a66c2)](https://www.sololearn.com/profile/12090595)
