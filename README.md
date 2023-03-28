@@ -1,4 +1,5 @@
-# Hi 👋, I am Bekhruz
+<!-- # Hi 👋, I am Bekhruz -->
+# 👨🏻‍💻 Bekhruz Akhmadjonov
 **Web-developer / Figma-designer**
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=24&duration=4000&pause=200&color=808080&width=435&lines=Hi+👋+I+am+Bekhruz;Student+of+Murdoch+University+Dubai;Web+Developer;Future+Software+Engineer;)](https://git.io/typing-svg) -->
 
