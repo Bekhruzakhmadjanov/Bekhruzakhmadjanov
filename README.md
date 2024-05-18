@@ -3,7 +3,7 @@
 **Web-developer / Figma-designer**
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=24&duration=4000&pause=200&color=808080&width=435&lines=Hi+👋+I+am+Bekhruz;Student+of+Murdoch+University+Dubai;Web+Developer;Future+Software+Engineer;)](https://git.io/typing-svg) -->
 
-I'm front-end developer and future full stack web and app developer, who is also going to study in cybersecurity. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Also I will share some of the projects made during the study. 
+I'm front-end developer and future full stack web and app developer, who is also going to study in artificial intelligence. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Also I will share some of the projects made during the study. 
 
 - 🔭 I’m currently learning JavaScript
 - 🌱 Also I’m learning JAVA
