@@ -5,8 +5,7 @@
 
 I'm front-end developer and future full stack web and app developer, who is also going to study in artificial intelligence. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Also I will share some of the projects made during the study. 
 
-- 🔭 I’m currently learning React
-- 🌱 Also I’m learning C++
+- 🔭 I’m currently learning React Native
 
 ### 🗂️ Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
